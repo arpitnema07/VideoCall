@@ -1,4 +1,5 @@
 # VideoCall       
+Video Call App Build with Clean UI and Simple Architecture 
 * This Android app uses JITSI Video Call Api to connect people with video and audio. 
 * Firebase Authentication is used to Login and SignUp in the App
 
